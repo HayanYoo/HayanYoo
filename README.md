@@ -53,6 +53,7 @@ https://simpleicons.org/?q=sass
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
+    <a href="https://noiseless-sloth-627.notion.site/c1082879661f47789ed44ef01e35f4cc/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Vimeo&logoColor=white&link=https://noiseless-sloth-627.notion.site/c1082879661f47789ed44ef01e35f4cc/"/></a>&nbsp
   <a href="https://be-developer.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://be-developer.tistory.com/"/></a>&nbsp
   <a href="mailto:hayanyoo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hayanyoo.dev@gmail.com"/></a>
 </p>
