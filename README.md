@@ -25,7 +25,7 @@ https://simpleicons.org/?q=sass
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 </p>
-<h5 align="center">Tools & DB </h5>
+<h5 align="center">Tools & DataBase </h5>
 
 <p align="center">
    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
@@ -37,7 +37,7 @@ https://simpleicons.org/?q=sass
 
 <!-- <br>
 
-<h3 align="center">🪄 Blog 🪄</h3>
+<h3 align="center"> Blog </h3>
 
 <div align="center" style="text-align:center">
   
@@ -61,4 +61,5 @@ https://simpleicons.org/?q=sass
 
 <!-- <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p> -->
+</p>  -->
+
